@@ -1,3 +1,5 @@
 cd /usr/local/ASM4
 
-git is useful
+git is usef
+
+karcae
